@@ -1,5 +1,6 @@
 ---
 title: Latest News
+weight: 20
 
 # Listing view
 view: masonry
