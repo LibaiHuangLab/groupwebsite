@@ -5,18 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: |
-        Ultrafast Spectroscopy Group
-      subtitle: @ Purdue Chemistry
-      text: 
-    design:
-      columns: '1'
     
   - block: hero
     content:
-      title: 
+      title: |
+        Ultrafast Spectroscopy Group
       image:
         filename: welcome.jpg
       text: |
