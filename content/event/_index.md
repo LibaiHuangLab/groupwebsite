@@ -2,6 +2,7 @@
 title: Cats
 type: landing
 
+sections:
 # Listing view
 - block: collection
     content:
