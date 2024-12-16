@@ -4,7 +4,7 @@ type: landing
 
 sections:
 # Listing view
-- block: collection
+  - block: collection
     content:
       title: 
       subtitle: ''
