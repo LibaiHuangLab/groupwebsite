@@ -7,7 +7,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Ultrafast Spectroscopy Group
+      title: |
+        Ultrafast Spectroscopy Group
       subtitle: @ Purdue Chemistry
       text: 
     design:
