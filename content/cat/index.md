@@ -1,12 +1,12 @@
 ---
-title: Cats 🐱
+title: Cats
 type: landing
 
 sections:
   - block: portfolio
     id: cat
     content:
-      title: 
+      title: Cats 🐱
       subtitle: 
       text: 
       filters:
