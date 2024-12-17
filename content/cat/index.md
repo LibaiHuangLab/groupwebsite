@@ -26,6 +26,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-    {{< gallery src="images/gallery1/" >}}
+    {{< gallery src="images/cats/" >}}
 
 ---
